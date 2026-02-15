@@ -1,7 +1,7 @@
 
 import telebot
 
-TOKEN = "BURAYA_TOKEN_YAZ"
+TOKEN = 8516046007:AAGQuDM5FY16mIkk9jFXfdb4yVZSkPYbDcQ
 
 bot = telebot.TeleBot(TOKEN)
 
